@@ -1,0 +1,8 @@
+.a{
+    display: none;
+}
+.star :hover{
+    cursor: pointer;
+/* background-color: #ffc107; */
+color: #ffc107;
+}

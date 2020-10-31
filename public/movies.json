@@ -1,0 +1,31 @@
+
+[
+    {"name":"Black Panther",
+      "dates":"12-10-2020",
+      "time":"10:30",
+      "theatres":"Abc_theatre",
+      "srcs":"./img/bahubali.jpg"
+    },
+    {
+    "name":"Bahubali",
+      "dates":"12-12-2020",
+      "time":"10:30",
+      "theatres":"Abcd_theatre",
+      "srcs":"./img/bahubali.jpg"
+
+    },
+    {
+      "name":"GetOut",
+      "dates":"12-10-2020",
+      "time":"10:30",
+      "theatres":"Abc_theatre",
+      "srcs":"./img/bahubali.jpg"
+    },
+    {
+      "name":"GetOut",
+      "dates":"12-10-2020",
+      "time":"10:30",
+      "theatres":"Abc_theatre",
+      "srcs":"./img/bahubali.jpg"
+    }
+]
